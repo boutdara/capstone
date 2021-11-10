@@ -10,9 +10,9 @@ A Github repository for Group 2's final capstone project. The project looks at f
 
 **REPOSITORY**
 ==============
-The repository includes a Code folder with all the relevant code formatted in ipynb, python, or sql files, a Project Specifications folder with the data platform, a list of data sources, the executive summary, and project plan all in PDF format.
+The repository includes a Code folder with all the relevant code formatted in ipynb, python, or sql files with a single pickle file also included. The pickle file for the machine learning model in the dashboard is named "Capstone_ML2". 
 
-The pickle file for the machine learning model in the dashboard is included. It is named "Capstone_ML2".
+The repository also includes a Project Specifications folder with the data platform, a list of data sources, the executive summary, and project plan all in PDF format.
 
 Other deliverables are included in the github as pdf files.
 
