@@ -14,7 +14,7 @@ The repository includes a Code folder with all the relevant code formatted in ip
 
 The repository also includes a Project Specifications folder with the data platform, a list of data sources, the executive summary, and project plan all in PDF format.
 
-Other deliverables are included in the github as pdf files.
+Other deliverables are included in the github as PDF files. The Power BI dashboard is contained as "index.md" and can be viewed <a href="https://boutdara.github.io/capstone/">here</a>.
 
 **CONFIGURATION**
 =================
